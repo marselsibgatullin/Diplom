@@ -1,3 +1,2 @@
-# diplom
-# diplom
-# diplom
+# web-application
+(c) Sibgatullin Marsel

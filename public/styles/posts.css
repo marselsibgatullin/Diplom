@@ -1,0 +1,17 @@
+p.clip {
+    white-space: nowrap; /* Запрещаем перенос строк */
+    overflow: hidden; /* Обрезаем все, что не помещается в область */
+    padding: 5px; /* Поля вокруг текста */
+    text-overflow: ellipsis; /* Добавляем многоточие */
+   }
+.news {
+    padding:30px;
+}
+
+.vacancy{
+    margin-top:30px;
+}
+
+.empt{
+    margin-top:50px;
+}
